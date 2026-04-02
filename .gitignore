@@ -1,0 +1,15 @@
+# Ignore large/binary files
+*.zip
+
+# Build outputs
+build/
+app/build/
+
+# APK files
+*.apk
+
+# Local configs
+local.properties
+
+# Gradle cache
+.gradle/
